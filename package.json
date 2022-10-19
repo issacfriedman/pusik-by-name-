@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "gematria": "^1.0.0",
+    "gematriya": "2.0.0"
+  }
+}
